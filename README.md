@@ -1,9 +1,13 @@
-### Hey! I'm Frost. 👋
+# About me
+```java
+User user = new User();
+        user.setName("frost");
+        user.addLanguage("Java");
+        user.addLanguageToLearn("Python", "Kotlin", "Ruby", "JavaScript", "HTML", "CSS");
+        user.setDiscord("frost#0723");
 
-Information
+        UserManager.addUser(user);
+```
 
-- 👀 I’m interested in Java, HTML & CSS.
-- 📫 You can contact me via my discord frost#0723.
-
-## Github Stats
+# Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=frosxt&show_icons=true&theme=dark)
