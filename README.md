@@ -1,12 +1,12 @@
 # About me
 ```java
 User user = new User();
-        user.setName("frost");
-        user.addLanguage("Java");
-        user.addLanguageToLearn("Python", "Kotlin", "Rust", "Ruby", "JavaScript", "HTML", "CSS");
-        user.setDiscord("frost#0723");
+user.setName("frost");
+user.addLanguage("Java");
+user.addLanguageToLearn("Python", "Kotlin", "Rust", "Ruby", "JavaScript", "HTML", "CSS");
+user.setDiscord("frost#0723");
 
-        UserManager.addUser(user);
+UserManager.addUser(user);
 ```
 
 # Github Stats
