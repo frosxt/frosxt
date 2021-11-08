@@ -1,6 +1,4 @@
 # About me
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=frosxt&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
-
 ```java
 public class Frost extends User {
     public Frost() {
@@ -40,3 +38,4 @@ public abstract class User {
     }
 }
 ```
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=frosxt&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
