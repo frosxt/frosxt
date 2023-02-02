@@ -2,7 +2,7 @@
 ```java
 public class Frost extends User {
     public Frost() {
-        super("frost", "Scotland", "frost#0723", "Java");
+        super("frost", "Scotland", "frost#0723", Arrays.asList("Java", "Python"));
 
         UserManager.addUser(this);
     }
@@ -39,3 +39,4 @@ public abstract class User {
 }
 ```
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=frosxt&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sefovski&label=Profile%20views&color=0e75b6&style=flat" alt="sefovski" /> </p>
