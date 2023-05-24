@@ -2,7 +2,7 @@
 
 ## Languages and Tools
     
-<summary>Languages</summary>
+# Languages 
 <br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" />
@@ -15,7 +15,7 @@
     
 <br>
     
-<summary>Build Systems</summary>
+# Build Systems
 <br/>
 <div align="center">
 <img src="https://github.com/skateboard/skateboard/blob/master/images/gradle.png?raw=true">
@@ -26,7 +26,7 @@
 
 ---
     
-<summary>Database</summary>
+# Database
 <br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mysql.png">
@@ -38,7 +38,7 @@
     
 ---
 
-<summary>IDE's</summary>
+# IDE's
 <br/>
 <div align="center">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg">
