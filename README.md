@@ -1,7 +1,9 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=resb4smynavh4vp65599r8mn4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### Languages and Tools
-    
+
+<br>
+
 Languages 
 <br/>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" />
