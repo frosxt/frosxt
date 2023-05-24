@@ -1,10 +1,10 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=resb4smynavh4vp65599r8mn4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-## Languages and Tools
+# Languages and Tools
     
+<div align="center">
 ### Languages 
 <br/>
-<div align="center">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" />
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg">
 </div>
@@ -15,9 +15,9 @@
     
 <br>
     
+<div align="center">
 ### Build Systems
 <br/>
-<div align="center">
 <img src="https://github.com/skateboard/skateboard/blob/master/images/gradle.png?raw=true">
 <img src="https://github.com/skateboard/skateboard/blob/master/images/maven.png?raw=true">
 </div>
@@ -25,10 +25,10 @@
 <br/>
 
 ---
-    
+
+<div align="center">
 ### Database
 <br/>
-<div align="center">
 <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mysql.png">
 <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mongo%20db.png">
 <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/redis%20db.png">
@@ -38,9 +38,9 @@
     
 ---
 
+<div align="center">
 ### IDE's
 <br/>
-<div align="center">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg">
 </div>
