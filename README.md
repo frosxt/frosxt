@@ -2,12 +2,12 @@
 
 ### Languages and Tools
 
-<br>
-
 Languages 
 <br/>
+<div>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" />
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg">
+</div>
     
 <br/>
 
@@ -17,8 +17,10 @@ Languages
     
 Build Systems
 <br/>
+<div>
 <img src="https://github.com/skateboard/skateboard/blob/master/images/gradle.png?raw=true">
 <img src="https://github.com/skateboard/skateboard/blob/master/images/maven.png?raw=true">
+</div>
 
 <br/>
 
@@ -26,9 +28,11 @@ Build Systems
 
 Database
 <br/>
+<div>
 <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mysql.png">
 <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mongo%20db.png">
 <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/redis%20db.png">
+</div>
 
 <br/>
     
@@ -36,8 +40,10 @@ Database
 
 IDE's
 <br/>
+<div>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg">
+</div>
 
 <br/>
 
