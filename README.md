@@ -1,5 +1,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=resb4smynavh4vp65599r8mn4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
+[![wakatime](https://wakatime.com/badge/user/43415694-efe0-4a8e-b57c-ce409e69d660.svg)](https://wakatime.com/@43415694-efe0-4a8e-b57c-ce409e69d660)
+
 ### Languages and Tools
 
 ---
