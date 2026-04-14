@@ -1,5 +1,4 @@
 name: Update README cards
-uses: stats-organization/github-readme-stats-action@v1.1.0
 
 on:
   schedule:
