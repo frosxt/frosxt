@@ -10,7 +10,11 @@ Languages
 <br/>
 <div>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" />
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg"/>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/refs/heads/master/svg/dev/languages/js.svg"/>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/languages/rust.svg"/>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/languages/html.svg"/>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/languages/css3.svg">
 </div>
     
 <br/>
