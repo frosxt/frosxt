@@ -23,34 +23,41 @@ Languages
     
 <br>
     
-Build Systems
+Frameworks
 <br/>
 <div>
-<img src="https://github.com/skateboard/skateboard/blob/master/images/gradle.png?raw=true">
-<img src="https://github.com/skateboard/skateboard/blob/master/images/maven.png?raw=true">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/frameworks/nodejs.svg">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/frameworks/react.svg">
 </div>
 
 <br/>
 
 ---
-
-Database
-<br/>
-<div>
-<img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mysql.png">
-<img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mongo%20db.png">
-<img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/redis%20db.png">
-</div>
-
-<br/>
     
+<br>
+    
+Services
+<br/>
+<div>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/services/aws.svg">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/services/azure.svg">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/services/google_cloud_platform.svg">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/services/npm.svg">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/services/office_365.svg">
+</div>
+
+<br/>
+
 ---
 
-IDE's
+Tools
 <br/>
 <div>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/tools/visualstudio_code.svg">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/tools/docker.svg">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/tools/powershell.svg">
 </div>
 
 <br/>
